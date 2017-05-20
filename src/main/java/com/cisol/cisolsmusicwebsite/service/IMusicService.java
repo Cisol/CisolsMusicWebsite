@@ -1,13 +1,13 @@
-package com.cisol.cisolsmusicwebsite.dao;
+package com.cisol.cisolsmusicwebsite.service;
 
 import com.cisol.cisolsmusicwebsite.entity.MusicEntity;
 
 import java.util.List;
 
 /**
- * Created by Cisol on 2017/5/13 0013.
+ * Created by Cisol on 2017/5/20 0020.
  */
-public interface IMusicDao {
+public interface IMusicService {
 
     List<MusicEntity> getMusicList(Long musicId, String musicName, Long singerId, Long albumId);
 
@@ -16,5 +16,4 @@ public interface IMusicDao {
     boolean addMusic(MusicEntity musicEntity);
 
     boolean deleteMusic(MusicEntity musicEntity);
-
 }

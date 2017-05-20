@@ -1,9 +1,8 @@
 package com.cisol.cisolsmusicwebsite.utils;
 
-import org.apache.commons.dbcp.BasicDataSource;
+import com.mysql.jdbc.PreparedStatement;
 
 import java.sql.Connection;
-import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 /**
@@ -20,38 +19,21 @@ public class DriverManager {
 
     private DriverManager() {}
 
-    public DriverManager getInstance() {
+    public static DriverManager getInstance() {
         return DriverManagerProducer.driverManager;
     }
 
-    private static BasicDataSource bds = null;
-
     public Connection getConnection() {
-        if(bds == null) {
-            synchronized (bds) {
-                if (bds == null) {
-                    //创建数据源对象
-                    bds = new BasicDataSource();
-                    //设置连接池所需的驱动
-                    bds.setDriverClassName(driverName);
-                    bds.setUrl(url);
-                    bds.setUsername(username);
-                    bds.setPassword(password);
-                    //设置连接池的初始连接数
-                    bds.setInitialSize(10);
-                    //设置连接池最多可以有多少个活动连接数
-                    bds.setMaxActive(20);
-                    //设置连接池最少有多少个空闲连接
-                    bds.setMinIdle(2);
-                }
-            }
-        }
         try {
-            return bds.getConnection();
+            //动态加载mysql驱动
+            Class.forName(driverName);
+            conn = java.sql.DriverManager.getConnection(url, username, password);
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        return null;
+        return conn;
     }
 
     static class DriverManagerProducer{

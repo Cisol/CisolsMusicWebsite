@@ -19,7 +19,7 @@ public class MusicDao implements IMusicDao {
 
     @Override
     public List<MusicEntity> getMusicList(Long musicId, String musicName, Long singerId, Long albumId) {
-        List<MusicEntity> musicList = new ArrayList<>();
+        List<MusicEntity> musicList = new ArrayList<MusicEntity>();
         MusicEntity musicEntity = new MusicEntity();
         try {
             conn = driverManager.getConnection();

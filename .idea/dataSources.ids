@@ -6,28 +6,30 @@
       <identifier-quote-string>`</identifier-quote-string>
     </database-info>
     <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
-    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5">
-      <schema id="1" name="cisolsmusic"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="cisolsmusic">
+        <visible>1</visible>
+      </schema>
       <table id="2" parent="1" name="musics"/>
       <column id="3" parent="2" name="musicId">
         <mandatory>1</mandatory>
-        <data-type>int(11)</data-type>
+        <data-type>int(11)|0</data-type>
         <sequence-identity>1</sequence-identity>
       </column>
       <column id="4" parent="2" name="musicName">
         <mandatory>1</mandatory>
-        <data-type>varchar(255)</data-type>
+        <data-type>varchar(255)|0</data-type>
       </column>
       <column id="5" parent="2" name="mSingerId">
         <mandatory>1</mandatory>
-        <data-type>int(11)</data-type>
+        <data-type>int(11)|0</data-type>
       </column>
       <column id="6" parent="2" name="mAlbumId">
-        <data-type>int(11)</data-type>
+        <data-type>int(11)|0</data-type>
       </column>
       <column id="7" parent="2" name="mUrl">
         <mandatory>1</mandatory>
-        <data-type>varchar(255)</data-type>
+        <data-type>varchar(255)|0</data-type>
       </column>
       <key id="8" parent="2" name="PRIMARY">
         <columns>musicId</columns>

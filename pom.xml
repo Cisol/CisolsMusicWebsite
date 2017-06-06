@@ -27,22 +27,9 @@
             <version>1.2.16</version>
         </dependency>
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.42</version>
-        </dependency>
-        <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <version>3.1.0</version>
         </dependency>
-        <dependency>
-            <groupId>com.mchange</groupId>
-            <artifactId>c3p0</artifactId>
-            <version>0.9.2.1</version>
-            <systemPath>${project.basedir}/src/lib/c3p0-0.9.2.1-sources.jar</systemPath>
-        </dependency>
     </dependencies>
-
-
 </project>

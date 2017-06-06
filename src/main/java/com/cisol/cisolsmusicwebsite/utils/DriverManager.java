@@ -9,7 +9,7 @@ import java.sql.SQLException;
  * Created by Cisol on 2017/5/13 0013.
  */
 public class DriverManager {
-    private static final String url = "jdbc:mysql://localhost:3306/music";
+    private static final String url = "jdbc:mysql://localhost:3306/CisolsMusic";
     private static final String username = "root";
     private static final String password = "123456";
     private static final String driverName = "com.mysql.jdbc.Driver";

@@ -2,28 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e183d4e5-47b8-433f-8e77-5a292a562691" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/c3p0-0.9.2.1-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/mchange-commons-java-0.2.3.4-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mchange_commons_java_0_2_3_4_sources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_22_bin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/IMusicService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/sql.sql" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/add.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_22_bin.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$1.class" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$DriverManagerProducer.class" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$DriverManagerProducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager.class" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$DriverManagerProducer.class" afterPath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager$DriverManagerProducer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager.class" afterPath="$PROJECT_DIR$/target/classes/com/cisol/cisolsmusicwebsite/utils/DriverManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CisolsMusicWebsite.iml" afterPath="$PROJECT_DIR$/CisolsMusicWebsite.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/sql.sql" afterPath="$PROJECT_DIR$/out/artifacts/CisolsMusicWebsite_war_exploded/WEB-INF/classes/sql.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/sql.sql" afterPath="$PROJECT_DIR$/src/main/resources/sql.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/sql.sql" afterPath="$PROJECT_DIR$/target/classes/sql.sql" />
     </list>
     <ignored path="CisolsMusicWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +41,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -50,15 +53,274 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="CisolsMusicWebsite" />
+    <favorites_list name="CisolsMusicWebsite">
+      <favorite_root url="file://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode">
+        <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jmx" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/Log.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/LogUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/LogFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/NullLogger.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/Jdk14Logger.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/Slf4JLogger.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/log/StandardLogger.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/LRUCache.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/TimezoneDump.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/BaseBugReport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/ResultSetUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/ServerController.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/ReadAheadInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/PropertiesDocGenerator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/VersionFSHierarchyMaker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/util/ErrorMappingsDocGenerator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlXid.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/WrapperBase.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlXAException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/StatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/fullDebug.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/3-0-Compat.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/5-0-Compat.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/coldFusion.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/clusterBase.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/maxPerformance.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/configs/solarisMaxPerformance.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/profiler" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/profiler/ProfilerEvent.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/profiler/ProfilerEventHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Blob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Clob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Util.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLDataException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLTimeoutException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLTransientException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLNonTransientException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Field.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration/c3p0" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration/jboss" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Buffer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Driver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/interceptors" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlIO.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/RowData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Messages.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/SQLError.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Security.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/TimeUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/authentication" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/authentication/Sha256PasswordPlugin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/BufferRow.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Collation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Constants.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Extension.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MiniAdmin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlDefs.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Statement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Connection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4NClob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/PingTarget.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StringUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ByteArrayRow.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CacheAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/IterateBlock.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NotUpdatable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ResultSetRow.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/Charsets.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ResultSetImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/RowDataCursor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/RowDataStatic.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/SocketFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StatementImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/WriterWatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CharsetMapping.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4ResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlSavepoint.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NotImplemented.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/RowDataDynamic.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/SocketMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/BalanceStrategy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/BlobFromLocator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionGroup.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/EscapeProcessor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/EscapeTokenizer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4Connection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MySQLConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/WatchableWriter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/DatabaseMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ExportControlled.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4MysqlSQLXML.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NetworkResources.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CallableStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlErrorNumbers.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ParameterBindings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/PreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ReplicationDriver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/UpdatableResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CacheAdapterFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlDataTruncation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/OutputStreamWatcher.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StreamingNotifiable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/AuthenticationPlugin.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionProperties.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ExceptionInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4MySQLConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LicenseConfiguration.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NonRegisteringDriver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StatementInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CompressedInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/EscapeProcessorResult.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4DatabaseMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/PacketTooBigException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/RandomBalanceStrategy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ReplicationConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StandardSocketFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/WatchableOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionGroupManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4CallableStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4PreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/MysqlParameterMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NamedPipeSocketFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StatementInterceptorV2.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CachedResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/CommunicationsException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/FailoverConnectionProxy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4ClientInfoProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4UpdatableResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NoSubInterceptorWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/PerConnectionLRUFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ServerPreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/VersionedStringProperty.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/AssertionFailedException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionPropertiesImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ResultSetInternalMethods.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/DocsConnectionPropsHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4ClientInfoProviderSP.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/SequentialBalanceStrategy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/SingleByteCharsetConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LoadBalanceExceptionChecker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LoadBalancedMySQLConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LocalizedErrorMessages.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ProfilerEventHandlerFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4PreparedStatementHelper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4ServerPreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LoadBalancingConnectionProxy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionPropertiesTransform.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionLifecycleInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4CommentClientInfoProvider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/OperationNotSupportedException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/BestResponseTimeBalanceStrategy.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/NonRegisteringReplicationDriver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/com/mysql/jdbc/ConnectionFeatureNotAvailableException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/org/gjt" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/org/gjt/mm" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/org/gjt/mm/mysql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/org/gjt/mm/mysql/Driver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/META-INF/services" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/META-INF/services/java.sql.Driver" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/META-INF/INDEX.LIST" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="jar://$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+            <state relative-caret-position="850">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -67,9 +329,30 @@
       <file leaf-file-name="MusicEntity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/MusicEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="425">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#393#394#0" expanded="false" />
+                <element signature="e#423#424#0" expanded="false" />
+                <element signature="e#467#468#0" expanded="false" />
+                <element signature="e#505#506#0" expanded="false" />
+                <element signature="e#541#542#0" expanded="false" />
+                <element signature="e#573#574#0" expanded="false" />
+                <element signature="e#623#624#0" expanded="false" />
+                <element signature="e#665#666#0" expanded="false" />
+                <element signature="e#699#700#0" expanded="false" />
+                <element signature="e#731#732#0" expanded="false" />
+                <element signature="e#779#780#0" expanded="false" />
+                <element signature="e#821#822#0" expanded="false" />
+                <element signature="e#854#855#0" expanded="false" />
+                <element signature="e#885#886#0" expanded="false" />
+                <element signature="e#931#932#0" expanded="false" />
+                <element signature="e#971#972#0" expanded="false" />
+                <element signature="e#1002#1003#0" expanded="false" />
+                <element signature="e#1029#1030#0" expanded="false" />
+                <element signature="e#1069#1070#0" expanded="false" />
+                <element signature="e#1101#1102#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,62 +360,19 @@
       <file leaf-file-name="MusicServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1242">
-              <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2085#2086#0" expanded="true" />
-                <element signature="e#2126#2127#0" expanded="true" />
-                <element signature="e#2203#2204#0" expanded="true" />
-                <element signature="e#2247#2248#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriverManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriverManager.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/Java/JDK1.7/src.zip!/java/sql/DriverManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4048">
-              <caret line="205" column="29" selection-start-line="205" selection-start-column="29" selection-end-line="205" selection-end-column="29" />
+            <state relative-caret-position="1625">
+              <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c3p0-config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/c3p0-config.xml">
+      <file leaf-file-name="add.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/add.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="248">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MusicDao.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1495284993268" expanded="true" signature="889:909" ph="select * fro... musics" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -140,18 +380,63 @@
       <file leaf-file-name="MusicService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="135">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/sql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Driver.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/data/maven/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.jar!/com/mysql/jdbc/Driver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMusicDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1495464269441" expanded="true" signature="900:920" ph="select * fro... musics" />
               </folding>
             </state>
           </provider>
@@ -163,10 +448,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -180,16 +467,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/MusicEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/MusicEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/SingerEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/sql.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c109184b-d661-43bc-928d-be261fccb757/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/IMusicService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/c3p0-config.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/data/maven/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.jar!/com/mysql/jdbc/Driver.class" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java" />
+        <option value="$PROJECT_DIR$/web/add.jsp" />
       </list>
     </option>
   </component>
@@ -209,8 +499,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="D:\data\maven" />
         <option name="mavenHome" value="Bundled (Maven 3)" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -219,8 +516,39 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -248,9 +576,26 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CisolsMusicWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql:mysql-connector-java:5.1.17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql-connector-java-5.1.17.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="CisolsMusicWebsite" />
@@ -295,43 +640,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CisolsMusicWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CisolsMusicWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CisolsMusicWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CisolsMusicWebsite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -445,6 +762,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -460,6 +778,9 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="c3p0&#9;FILE&#9;file://F:/ideaWorkspace/CisolsMusicWebsite/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/lib/mysql-connector-java-5.1.22-bin.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -497,11 +818,19 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
@@ -517,9 +846,17 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <method />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
@@ -601,6 +938,9 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -973,23 +1313,26 @@
       <workItem from="1494848390564" duration="601000" />
       <workItem from="1495259918514" duration="19342000" />
       <workItem from="1495288034526" duration="47000" />
+      <workItem from="1495463768861" duration="1173000" />
+      <workItem from="1495465052900" duration="8389000" />
+      <workItem from="1496674414573" duration="3521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24993000" />
+    <option name="totallyTimeSpent" value="38076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -997,14 +1340,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2569546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31602374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33044422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1032,10 +1375,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java</url>
           <line>29</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1044,6 +1393,96 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/MusicEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/c3p0-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1495464269441" expanded="true" signature="900:920" ph="select * fro... musics" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -1056,7 +1495,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
-          <folding />
+          <folding>
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,13 +1524,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1242">
           <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2126#2127#0" expanded="true" />
-            <element signature="e#2203#2204#0" expanded="true" />
-            <element signature="e#2247#2248#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,20 +1534,11 @@
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/JDK1.7/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4048">
-          <caret line="205" column="29" selection-start-line="205" selection-start-column="29" selection-end-line="205" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://E:/Java/JDK1.7/src.zip!/java/sql/DriverManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/c3p0-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1108,7 +1553,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1495284993268" expanded="true" signature="889:909" ph="select * fro... musics" />
+            <marker date="1495464269441" expanded="true" signature="900:920" ph="select * fro... musics" />
           </folding>
         </state>
       </provider>
@@ -1117,17 +1562,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,7 +1578,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,16 +1607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#210#211#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#364#365#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,8 +1616,6 @@
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1195,7 +1639,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1203,16 +1668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#210#211#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#364#365#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1222,8 +1677,6 @@
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1239,16 +1692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#210#211#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#287#288#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#364#365#0" expanded="false" />
-            <element signature="e#397#398#0" expanded="false" />
-            <element signature="e#449#450#0" expanded="false" />
-            <element signature="e#493#494#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1268,161 +1711,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/sql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c109184b-d661-43bc-928d-be261fccb757/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c109184b-d661-43bc-928d-be261fccb757/console.sql" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/IMusicService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="11" column="95" selection-start-line="11" selection-start-column="95" selection-end-line="11" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/MusicEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar!/org/apache/commons/dbcp/BasicDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar!/org/apache/commons/dbcp/managed/BasicManagedDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="57" column="60" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.jar!/org/apache/commons/dbcp/BasicDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="68" column="53" selection-start-line="68" selection-start-column="53" selection-end-line="68" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar!/org/apache/commons/dbcp/BasicDataSource.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4-sources.jar!/org/apache/commons/dbcp/managed/BasicManagedDataSource.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-dbcp/commons-dbcp/1.3/commons-dbcp-1.3.jar!/org/apache/commons/dbcp/BasicDataSource.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.class" />
     <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="103" column="11" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+    <entry file="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2-sources.jar!/com/mchange/v2/c3p0/ComboPooledDataSource.java" />
+    <entry file="jar://E:/Java/JDK1.7/src.zip!/java/sql/DriverManager.java" />
+    <entry file="uml://MAVEN/CisolsMusicWebsite:CisolsMusicWebsite:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>CisolsMusicWebsite:CisolsMusicWebsite:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">CisolsMusicWebsite:CisolsMusicWebsite:1.0-SNAPSHOT</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-201.0" y="-174.0" />
+          <SelectedNodes>
+            <node>CisolsMusicWebsite:CisolsMusicWebsite:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java">
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="54" column="47" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2126#2127#0" expanded="true" />
-            <element signature="e#2203#2204#0" expanded="true" />
-            <element signature="e#2247#2248#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/c3p0-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
+        <state relative-caret-position="125">
           <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/JDK1.7/src.zip!/java/sql/DriverManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/entity/MusicEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4048">
-          <caret line="205" column="29" selection-start-line="205" selection-start-column="29" selection-end-line="205" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="425">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#423#424#0" expanded="false" />
+            <element signature="e#467#468#0" expanded="false" />
+            <element signature="e#505#506#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#573#574#0" expanded="false" />
+            <element signature="e#623#624#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#779#780#0" expanded="false" />
+            <element signature="e#821#822#0" expanded="false" />
+            <element signature="e#854#855#0" expanded="false" />
+            <element signature="e#885#886#0" expanded="false" />
+            <element signature="e#931#932#0" expanded="false" />
+            <element signature="e#971#972#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1069#1070#0" expanded="false" />
+            <element signature="e#1101#1102#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+        <state relative-caret-position="850">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/data/maven/mysql/mysql-connector-java/5.1.17/mysql-connector-java-5.1.17.jar!/com/mysql/jdbc/Driver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/IMusicDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/utils/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="123">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/dao/impl/MusicDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="123">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1495284993268" expanded="true" signature="889:909" ph="select * fro... musics" />
+            <marker date="1495464269441" expanded="true" signature="900:920" ph="select * fro... musics" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/service/impl/MusicService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cisol/cisolsmusicwebsite/servlet/MusicServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="81" column="37" selection-start-line="81" selection-start-column="37" selection-end-line="81" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1468,7 +1910,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1505,7 +1947,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>mchange-commons-java-0.2.3.4-sources</last-edited>
+          <last-edited>mysql:mysql-connector-java:5.1.17</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

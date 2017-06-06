@@ -41,6 +41,9 @@ public class MusicServlet extends HttpServlet {
             case "list":
                 list(req, resp);
                 break;
+            case "listAll":
+                listAll(req, resp);
+                break;
             default:
                 break;
         }
@@ -59,8 +62,24 @@ public class MusicServlet extends HttpServlet {
         }
     }
 
+    private void listAll(HttpServletRequest req, HttpServletResponse resp) {
+        List<MusicEntity> musicList;
+        MusicService musicService = new MusicService(new MusicDao());
+        musicList = musicService.getMusicList(null, null, null, null);
+        for(MusicEntity music : musicList) {
+            System.out.println(music);
+        }
+    }
+
     public void add(HttpServletRequest req, HttpServletResponse resp) {
-        System.out.println("add");
+        MusicEntity music = new MusicEntity();
+        music.setMusicId(Long.valueOf(req.getParameter("musicId")));
+        music.setMusicName(req.getParameter("musicName"));
+        music.setmSingerId(Long.valueOf(req.getParameter("mSingerId")));
+        music.setmAlbumId(Long.valueOf(req.getParameter("mAlbumId")));
+        music.setmUrl(req.getParameter("mUrl"));
+        MusicService musicService = new MusicService(new MusicDao());
+        musicService.addMusic(music);
     }
 
     private void delete(HttpServletRequest req, HttpServletResponse resp) {
